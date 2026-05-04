@@ -1,5 +1,5 @@
-main
-singbox-exporter
+/main
+/singbox-exporter
 *.test
 coverage.out
 .env
