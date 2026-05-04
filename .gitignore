@@ -1,0 +1,6 @@
+main
+singbox-exporter
+*.test
+coverage.out
+.env
+.env.*
